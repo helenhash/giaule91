@@ -4,5 +4,5 @@ I am currently a Software Engineer in building software Involved in developing s
 📹 [Youtube](https://www.youtube.com/channel/UCsddNHiFpuZhTxUwB6-BgOA) 
 
 ##Skill 
-![GitHub Logo](/cv.png)
+![G](/cv.png)
 Format: ![Alt Text](url)
